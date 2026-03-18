@@ -12,3 +12,5 @@ Loop Midi used to interface between programe and DAW - This is a discontined ext
 https://www.tobias-erichsen.de/software/loopmidi.html 
 
 Loop MIDI is currently facing issues on the latest version of Window 11 due to Windows Midi Driver updates: https://microsoft.github.io/MIDI/ 
+
+New verson of code uploaded as GUI_V5 with MIDI source selector - Please see for xxx information regarding Loop MIDI workaround 
